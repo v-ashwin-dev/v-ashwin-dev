@@ -27,7 +27,7 @@ I like understanding how things work, from small chips to big systems. I build p
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashwin04912&label=SYSTEM%20VISITS&color=3ECF8E&style=flat" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=v-ashwin-dev&label=SYSTEM%20VISITS&color=3ECF8E&style=flat" alt="visitor count" />
   <br><br>
   <a href="https://instagram.com/soul_worker__049">Instagram</a> • <a href="https://linkedin.com/in/ashwin-dev-v">LinkedIn</a>
 </p>
